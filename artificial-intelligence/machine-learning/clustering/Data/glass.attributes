@@ -1,0 +1,11 @@
+Exclude,None
+RI,buckets,1.51,1.54,.01
+Na,buckets,10.50,17.50,0.5
+Mg,buckets,0,5,1
+Al,buckets,0,4,0.5
+Si,buckets,69,76,1
+K,buckets,0,7,1
+Ca,buckets,5,17,1
+Ba,buckets,0,4,0.5
+Fe,buckets,0,0.90,0.1
+label,1,2,3,4,5,6,7
