@@ -1,0 +1,9 @@
+Exclude,None
+mcg,buckets,0.0,1.0,0.1
+gvh,buckets,0.0,1.0,0.1
+lip,buckets,0.0,1.0,0.1
+chg,buckets,0.0,1.0,0.1
+aac,buckets,0.0,1.0,0.1
+alm1,buckets,0.0,1.0,0.1
+alm2,buckets,0.0,1.0,0.1
+label,cp,im,imS,imL,imU,om,omL,pp

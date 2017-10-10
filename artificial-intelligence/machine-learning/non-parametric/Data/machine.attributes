@@ -1,0 +1,10 @@
+Exclude,None
+Exclude,None
+MYCT,buckets,0,1500,100
+MMIN,buckets,0,32000,1000
+MMAX,buckets,0,64000,2000
+CACH,buckets,0,300,50
+CHMIN,buckets,0,60,10
+CHMAX,buckets,0,200,25
+PRP,buckets,0,1200,100
+label,buckets,0,1500,100

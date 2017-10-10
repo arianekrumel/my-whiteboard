@@ -1,0 +1,13 @@
+X,buckets,0,9,1
+Y,buckets,2,9,1
+month,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec
+Exclude,None
+FFMC,buckets,10.0,100.0,10.0
+DMC,buckets,0.0,300.0,50.0
+DC,buckets,0.0,900.0,100.0
+ISI,buckets,0.0,60.0,10.0
+temp,buckets,0.0,40.0,10.0
+RH,buckets,0,100,25
+wind,buckets,0,10,1
+rain,buckets,0.0,7.0,1.0
+label,0.0,10.0,100.0,1000.0,10000.0
