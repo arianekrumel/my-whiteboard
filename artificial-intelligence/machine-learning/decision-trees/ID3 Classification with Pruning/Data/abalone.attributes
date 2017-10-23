@@ -1,0 +1,9 @@
+Sex,M,F,I
+Length,buckets,0.0,0.9,0.1
+Diameter,buckets,0.50,0.650,0.50
+Height,buckets,0.00,1.100,0.100
+Whole_weight,buckets,0.000,3.00,0.5
+Shucked_weight,buckets,0.00,1.5,0.5
+Viscera_weight,buckets,0.000,0.800,0.1
+Shell_weight,buckets,0.0,1.5,.5
+label,buckets,0,45,5
