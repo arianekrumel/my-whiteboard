@@ -1,0 +1,5 @@
+sepal_length,buckets,4.0,8.0,1
+sepal_width,buckets,2.0,4.5,0.5
+petal_length,buckets,1.0,7.9,1
+petal_width,buckets,0.0,2.5,0.5
+label,Iris-setosa,Iris-versicolor,Iris-virginica
